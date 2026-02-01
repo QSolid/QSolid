@@ -17,7 +17,7 @@ Tableau · Figma · Darktable · DaVinci Resolve
 
 ## Projects
 
-### MediaVault – Personal Media Tracker ([Repo Link](https://github.com/QSolid/MediaVault))
+**MediaVault – Personal Media Tracker** ([Repo Link](https://github.com/QSolid/MediaVault))
 A full-stack web application for tracking movies, TV shows, anime, and manga.
 - Backend built with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, and **Alembic**
 - Integrated third-party APIs (**The Movie Database**, **MyAnimeList**)
