@@ -25,4 +25,4 @@ Tableau · Figma · Darktable · DaVinci Resolve
 ---
 
 ## Contact
-- **LinkedIn:** [linkedin.com/in/geraldthq](www.linkedin.com/in/geraldthq)
+- **LinkedIn:** [linkedin.com/in/geraldthq](https://www.linkedin.com/in/geraldthq)
